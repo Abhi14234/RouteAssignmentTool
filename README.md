@@ -29,5 +29,5 @@ A smart, GUI-based Python application to automatically assign uncovered stores t
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/abhi14234/RouteAssignmentTool.git
+git clone https://github.com/Abhi14234/RouteAssignmentTool.git
 cd RouteAssignmentTool
